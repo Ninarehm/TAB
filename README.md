@@ -1,6 +1,6 @@
 # Benchmark Dataset for Resolving Ambiguities in Text-to-image Generative Models
 
-This dataset is originally released from amazon-science (https://github.com/amazon-science/tab-dataset) In the [paper] (https://www.amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models), we mentioned https://github.com/Ninarehm/TAB url so we are providing a copy of the same dataset here.
+This dataset is originally released from amazon-science (https://github.com/amazon-science/tab-dataset) In the [paper](https://www.amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models), we mentioned https://github.com/Ninarehm/TAB url so we are providing a copy of the same dataset here.
 
 This benchmark dataset covers different types of linguistic as well as fairness ambiguities (in the form of under-specification) to evaluate faithful generation in text-to-image generative models in the existence of prompt ambiguities. This dataset covers 1200 ambiguous prompts and 4690 visual scenes (possible interpretations for existing prompts in this dataset). Our dataset on a high level covers six main types of ambiguities that can be visually traced including: 
 1. Syntax Prepositional Phrase (Example: **The girl approaches the shelf with a green plate.** It is possible that 1. the green plate is with the girl or 2. the green plate is on the shelf.)
