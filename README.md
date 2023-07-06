@@ -36,7 +36,7 @@ Download a copy of the dataset in the benchmark/data folder. Each ambiguity type
 # License
 
 ![alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-The dataset is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-sa/4.0/).
+The dataset is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 
 # How to Cite
